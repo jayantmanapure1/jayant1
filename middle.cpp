@@ -34,7 +34,7 @@ void findMiddelELem(Node *head)
         fast = fast->next->next;
         slow = slow->next;
     }
-    cout << "\nMiddel Element is " << slow->data;
+    cout << "\n middle element" << slow->data;
 }
 
 int main()
