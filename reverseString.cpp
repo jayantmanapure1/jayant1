@@ -20,7 +20,7 @@ public:
     {
         if (top >= (MAX - 1))
         {
-            cout << "STACK OVERFLOW";
+            cout << "STACK OVERFLOW IS";
         }
         else
         {
